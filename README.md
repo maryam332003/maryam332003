@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Maryam 👋
 
-<!--
-**maryam332003/maryam332003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a backend .NET developer with a passion for creating efficient and scalable applications.
 
-Here are some ideas to get you started:
+## Skills
+### Backend
+C#
+SQL Server
+ASP.NET
+ASP.NET Web APIs
+Entity Framework
+LINQ
+Design Patterns
+SOLID Principles
+Object-Oriented Programming (OOP)
+SignalR
+### Frontend
+HTML5
+CSS3
+Bootstrap
+JavaScript
+TypeScript
+jQuery
+Angular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Talabat](https://github.com/maryam332003/TalabatApi)
+- [MVC Crud Operations](https://github.com/maryam332003/MVCProjCrudOperations-Auth)
+- [Order Management System](https://github.com/maryam332003/OrderManagementSystem)
+- [E-Commerce](https://github.com/maryam332003/E-CommerceAngularProj)
+
+## Connect with Me
+[LinkedIn](www.linkedin.com/in/maryamgamal33)
