@@ -5,24 +5,24 @@ I'm a backend .NET developer with a passion for creating efficient and scalable 
 
 ## Skills
 ### Backend
-C#
-SQL Server
-ASP.NET
-ASP.NET Web APIs
-Entity Framework
-LINQ
-Design Patterns
-SOLID Principles
-Object-Oriented Programming (OOP)
-SignalR
+-C#
+-SQL Server
+-ASP.NET
+-ASP.NET Web APIs
+-Entity Framework
+-LINQ
+-Design Patterns
+-SOLID Principles
+-Object-Oriented Programming (OOP)
+-SignalR
 ### Frontend
-HTML5
-CSS3
-Bootstrap
-JavaScript
-TypeScript
-jQuery
-Angular
+-HTML5
+-CSS3
+-Bootstrap
+-JavaScript
+-TypeScript
+-jQuery
+-Angular
 
 ## Projects
 - [Talabat](https://github.com/maryam332003/TalabatApi)
